@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/denscholar/contact-directory-react/static/css/main.a28e0d76.css",
+    "main.js": "/denscholar/contact-directory-react/static/js/main.146d9bcc.js",
+    "index.html": "/denscholar/contact-directory-react/index.html",
+    "main.a28e0d76.css.map": "/denscholar/contact-directory-react/static/css/main.a28e0d76.css.map",
+    "main.146d9bcc.js.map": "/denscholar/contact-directory-react/static/js/main.146d9bcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a28e0d76.css",
+    "static/js/main.146d9bcc.js"
+  ]
+}
